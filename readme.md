@@ -1,7 +1,7 @@
 PA3ANG, reworked November 2024
 
 
-PHP script (partly HTML) works in conjunction with Cloudlog Database V.6.13
+PHP script (partly HTML) works in conjunction with Cloudlog Database (Cloudlog V6.13)
 
 It interogates de Cloudlog database based on selection : Satellite, Band and or Mode
 
